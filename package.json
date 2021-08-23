@@ -2,7 +2,7 @@
 	"name": "@theorylabs/meta",
 	"version": "0.0.1",
 	"private": false,
-	"description": "Because all the fancy build tooling in the world won't ever change the fact that, post-compilation;, it's still JavaScript's Alice In Wonderland rules that govern runtime.",
+	"description": "Reclaim all the wasted time normally spent battling the Alice In Wonderland rules of the JavaScript runtime. Drink less coffee. Call your mom.",
 	"license": "SEE LICENSE IN LICENSE.txt",
 	"repository": {
 		"type": "git",

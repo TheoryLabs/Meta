@@ -3,7 +3,9 @@
 </a>
 
 # Meta
-> **Meta**, Because _all_ the fancy build tooling in the world won't _ever_ change the fact that, post-compilation;, it's still just _**JavaScript**_. **Meta** _embraces_ this truth. Reclaim all the time wasted fighting JavaScript's _Alice In Wonderland_ rules at runtime. Drink less coffee. Call your mom.
+> Because _**all**_ the fancy build tooling in the world won't _**ever**_ change the fact that, post-compilation, it's still just _**JavaScript**_. **Meta** embraces this truth. Reclaim all the wasted time normally spent battling the Alice In Wonderland rules of the JavaScript runtime. Drink less coffee. Call your mom.
+
+
 
 ## Installation
 _`yarn` is **preferred** package manager_
